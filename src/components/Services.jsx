@@ -1,4 +1,4 @@
-import { Cog, Flame, Shield, Wrench, Pipe, Factory, Gauge, Hammer } from "lucide-react";
+import { Cog, Flame, Shield, Wrench, Factory, Gauge, Hammer } from "lucide-react";
 
 const services = [
   {
@@ -22,7 +22,7 @@ const services = [
     desc: "Precision TIG/argon welding for food-grade and high-precision assemblies in SS 304/316.",
   },
   {
-    icon: Pipe,
+    icon: Wrench,
     title: "Pipe Bending & Spools",
     desc: "Cold/hot bending, spool fabrication and site fit-ups as per P&ID and isometrics.",
   },
